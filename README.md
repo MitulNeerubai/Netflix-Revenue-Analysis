@@ -1,25 +1,29 @@
 # Netflix-Revenue-Analysis
 
 ## Project Overview
-This project explores Netflix's revenue trends using data analysis and visualization techniques. It involves data cleaning, exploratory data analysis (EDA), and revenue pattern identification to gain insights into Netflix’s financial performance over time.
+This project analyzes Netflix's revenue trends using data analysis, Power Query transformations, and visualization techniques. It involves data cleaning, exploratory data analysis (EDA), and revenue pattern identification to gain insights into Netflix’s financial performance over time.
 
 ## Key Features
-📌 Data Cleaning & Preprocessing
-📊 Exploratory Data Analysis (EDA)
-📈 Revenue Trend Visualization
-🔍 Insights & Business Impact
+Data Cleaning & Preprocessing (Handled missing values, formatted data)
+Power Query Transformations (Performed data filtering, merging, and calculated new revenue metrics)
+Exploratory Data Analysis (EDA) (Analyzed trends in revenue growth)
+Revenue Trend Visualization (Created interactive dashboards in Power BI)
+Insights & Business Impact (Identified factors influencing revenue changes)
 
 ## Tech Stack
-Python (Pandas, Matplotlib, Seaborn)
-Power BI for interactive dashboards
-SQL for data querying
-Excel for data organization
+Power BI & Power Query for data transformation
+Python (Pandas, Matplotlib, Seaborn) for analysis
+SQL for querying structured data
+Excel for initial data organization
 
-## Dataset
-The dataset includes revenue-related information extracted from kaggle.
+## Power Query Transformations
+Filtered data to remove inconsistencies
+Merged multiple data sources for better insights
+Created calculated columns (e.g., YoY revenue change)
+Aggregated revenue by region & subscription model
 
 ## How to Use
-Load the dataset (Netflix.xlsx).
-Run the Jupyter Notebook (Netflix_Analysis.ipynb).
-Clean the Data in Jupyter
-Download and transform it in PowerBI, and Explore visualizations and key insights.
+Open Power BI and load the Netflix.xlsx dataset.
+Apply Power Query transformations to clean and shape the data.
+Use the Jupyter Notebook (Netflix_Analysis.ipynb) for deeper statistical analysis.
+Explore the interactive Power BI dashboard for key insights.
