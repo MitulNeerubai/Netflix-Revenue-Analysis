@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes Netflix's revenue trends using data analysis, Power Query transformations, and visualization techniques. It involves data cleaning, exploratory data analysis (EDA), and revenue pattern identification to gain insights into Netflix’s financial performance over time.
 
+![Netflix Dashboard](https://github.com/user-attachments/assets/921a95ec-5233-4e1a-b648-5605a516bec1)
+
+
 ## Key Features
 Data Cleaning & Preprocessing (Handled missing values, formatted data)
 Power Query Transformations (Performed data filtering, merging, and calculated new revenue metrics)
